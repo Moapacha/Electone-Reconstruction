@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Reconstructing Vintage Electone Textures with RAVE
 
 ## Materials
@@ -84,7 +83,3 @@ Future work could involve:
 * Training a Prior Model
 * Expanding the dataset with additional Electone recordings
 * Comparing results using RAVE V3 or a different discriminator
-
-=======
-# Electone-Reconstruction
->>>>>>> 2f08fc0cbaa19427be878d3eaf20bcccd7e8f3fe
